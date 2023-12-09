@@ -1,11 +1,9 @@
-name: workflow-iptv-manual
+name: workflow-iptv-schedule
 
 on:
-  workflow_dispatch:
-    inputs:
-      tags:
-        description: 'Enter tag name for test/dev image'
-        default: 'test'
+  schedule:
+    # run every 1 day(s)
+    - cron: "0 0 * * *"
 
 jobs:
   run-job:
