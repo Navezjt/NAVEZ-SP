@@ -16,18 +16,20 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies",Cinemax Latin America
-http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Película (576p)
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids FreeLive Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p)
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (720p)
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Jr. (720p)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD (720p)
+https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka (1080p)
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="EvaRetro.cl" tvg-logo="https://i.imgur.com/Cwy0zcq.png" group-title="Movies",EvaRetro (Corporación Eva) (600p) [Not 24/7]
@@ -72,8 +74,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8
 #EXTINF:-1 tvg-id="NickClasico.us" tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="Kids",Pluto TV Nick Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8
-#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Kids",Pluto TV Nick Latino (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelasDrama.us" tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Movies",Pluto TV Novelas Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelasThriller.us" tvg-logo="https://i.imgur.com/WJnHkEm.png" group-title="Movies",Pluto TV Novelas Thriller (720p)
